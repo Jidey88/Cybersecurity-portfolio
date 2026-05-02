@@ -1,0 +1,25 @@
+# Site-to-Site IPsec VPN Lab
+
+## Objective
+To configure a secure VPN tunnel between two internal networks and validate encrypted communication.
+
+## Tools Used
+- GNS3
+- Palo Alto / Fortinet Firewall
+
+## Steps Performed
+1. Configured IKE Phase 1 (authentication, encryption)
+2. Configured IKE Phase 2 (IPsec policies)
+3. Created tunnel interfaces
+4. Applied security policies to allow traffic
+5. Tested connectivity between hosts
+
+## Results
+- Successfully established VPN tunnel
+- Verified communication between networks
+- Identified and resolved policy mismatch issues
+
+## Key Skills Gained
+- VPN configuration
+- Troubleshooting connectivity issues
+- Understanding secure network communication
